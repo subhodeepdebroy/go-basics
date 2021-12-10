@@ -1,4 +1,4 @@
-package pairs
+package go_basics
 
 import "errors"
 

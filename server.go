@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	pairs "./go-basics"
+	pairs "go-basic-programs/go_basics"
 )
 
 type Response struct {
